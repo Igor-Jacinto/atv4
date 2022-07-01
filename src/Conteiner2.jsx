@@ -6,12 +6,12 @@ function Conteiner2({ico2,desc2}){
         
         <div className="segundo">
 
-         <button className="principal">
-        <img src={ico2} alt="icone do app" />
+         <button className="botao">
+        <img className="imagem" src={ico2} alt="icone do app" />
 		<p>{desc2}</p>
 		 </button>
          </div>
-         
+
 	)
 }
 

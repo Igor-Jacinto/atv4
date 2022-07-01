@@ -6,45 +6,45 @@ function App(){
 	const conteiner = [
 		
     {
-			ico: "cachorro.jpg",
+			ico: "suap.png",
 			desc: "Inicio",
 		},
     {
-			ico: "img/",
+			ico: "globo.png",
 			desc: "globo.com",
 		},
     {
-			ico: "img/",
+			ico: "facebook.png",
 			desc: "Facebook",
 		},
     {
-			ico: "img/",
+			ico: "cups.png",
 			desc: "Home",
 		},
     {
-			ico: "img/",
+			ico: "ifro.png",
 			desc: "Mirim",
 		},
   ];
     const conteiner2 = [
     {
-			ico2: "img/",
+			ico2: "ifro.png",
 			desc2: "AVA",
 		},
     {
-			ico2: "img/",
+			ico2: "i.png",
 			desc2: "SEI/IFRO",
 		},
     {
-			ico2: "img/",
+			ico2: "gmail.png",
 			desc2: "E",
 		},
     {
-			ico2: "img/",
+			ico2: "ifro.png",
 			desc2: "Mirim",
 		},
     {
-			ico2: "img/",
+			ico2: "mais.png",
 			desc2: "Add short...",
 		},
 	];
