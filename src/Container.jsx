@@ -5,8 +5,8 @@ function Container({ico, desc}){
 	return( 
         <div className="primeiro">
 
-		<button className="principal">
-        <img src={ico} alt="icone do app" />
+		<button className="botao">
+        <img className="imagem" src={ico} alt="icone do app" />
 		<p>{desc}</p>
 		 </button>
 

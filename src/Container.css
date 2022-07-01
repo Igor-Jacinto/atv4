@@ -6,27 +6,27 @@
     display: flex;
 }
 
-.principal{
+.botao{
     width: 100px;
     border: none;
     background-color: white;
+    cursor: pointer;
 }
 
-.principal:hover{
+.botao:hover{
     background-color: rgb(221, 221, 221) ;
 }
 
 .princ{
     margin-left: 280px;
     margin-top: 50px;
-    
 }
 
 .primeiro{
-    height: 80px;
     flex-wrap: wrap;
 }
 
-.segundo{
-    
+.imagem{
+    height: 20px;
+    width: 20px;
 }
