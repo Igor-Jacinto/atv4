@@ -1,0 +1,32 @@
+.cont1{
+    display: flex; 
+}
+
+.cont2{
+    display: flex;
+}
+
+.principal{
+    width: 100px;
+    border: none;
+    background-color: white;
+}
+
+.principal:hover{
+    background-color: rgb(221, 221, 221) ;
+}
+
+.princ{
+    margin-left: 280px;
+    margin-top: 50px;
+    
+}
+
+.primeiro{
+    height: 80px;
+    flex-wrap: wrap;
+}
+
+.segundo{
+    
+}
